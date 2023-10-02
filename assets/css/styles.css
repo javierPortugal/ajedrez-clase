@@ -5,3 +5,9 @@
 .text-blue {
     color: #007bff;
 }
+
+main>.container {
+
+    padding: 60px 15px 0;
+
+}
